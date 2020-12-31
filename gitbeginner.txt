@@ -1,0 +1,9 @@
+the git appear in a hidden style because it don't want to touch it when we 
+initialized a folder called moon.The git is called git repository , this is where git
+stores information about our project history so we have directories like branches,hooks ,info ,
+objects, and references now as someone using git, you don't really need to 
+understand this structure .This is purely implementation detail.It's how git stores information , it's not of our business
+
+
+Basic git workflow
+-so here's our project directory and here's our git repository which is actually a hidden sub directory in our
